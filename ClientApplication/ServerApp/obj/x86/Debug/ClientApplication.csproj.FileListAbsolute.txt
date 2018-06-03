@@ -1,0 +1,14 @@
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\Labratory4.exe
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\Labratory4.pdb
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\mscorlib.dll
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\normidna.nlp
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\normnfc.nlp
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\normnfd.nlp
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\normnfkc.nlp
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\bin\Debug\normnfkd.nlp
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\obj\x86\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\obj\x86\Debug\Labratory4.exe
+C:\Users\Бауыржан\Documents\Projects\ClientApplication\Labratory4\obj\x86\Debug\Labratory4.pdb
+C:\Users\Bauka\Documents\Projects\ClientApplication\Labratory4\obj\x86\Debug\Labratory4.exe
+C:\Users\Bauka\Documents\Projects\ClientApplication\Labratory4\obj\x86\Debug\Labratory4.pdb
